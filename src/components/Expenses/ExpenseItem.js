@@ -9,7 +9,6 @@ function ExpenseItem(props) {
 
   function clickHandler() {
     setTitle('Updated!');
-    console.log('Clicked!');
   }
 
   return (
